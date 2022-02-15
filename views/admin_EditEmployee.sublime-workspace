@@ -1,0 +1,431 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"has",
+				"hasError"
+			],
+			[
+				"f",
+				"form-control"
+			],
+			[
+				"s",
+				"signup"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"fo",
+				"form-group"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"form",
+				"form-horizontal"
+			],
+			[
+				"my_s",
+				"mysql_select_db"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"r",
+				"Receptionist"
+			],
+			[
+				"u",
+				"uname"
+			],
+			[
+				"err",
+				"err_invalid"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"requi",
+				"Rerquierd"
+			],
+			[
+				"pa",
+				"pass"
+			],
+			[
+				"Requi",
+				"Rerquierd"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"e",
+				"e-mail"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/mvc/controllers/LoginController.php",
+		"/C/xampp/htdocs/0finalcourier/LoginController.php",
+		"/C/xampp/htdocs/0finalcourier/dashboard.php",
+		"/C/xampp/htdocs/mvc/login.php",
+		"/C/xampp/htdocs/mvc/main_header.php",
+		"/C/xampp/htdocs/mvc/main_footer.php",
+		"/C/xampp/htdocs/Naim1/leg.php",
+		"/C/xampp/htdocs/Naim1/login.php",
+		"/C/xampp/htdocs/Naim1/style3.css",
+		"/C/xampp/htdocs/Naim1/style1.css",
+		"/C/xampp/htdocs/Naim1/style.css",
+		"/C/xampp/htdocs/Naim1/receptionist.php",
+		"/C/xampp/htdocs/Naim1/ORDER-INFO.php",
+		"/C/xampp/htdocs/Naim1/admin.php",
+		"/C/xampp/htdocs/Naim1/index.php",
+		"/C/xampp/htdocs/final11/controllers/LoginPanelController.php",
+		"/C/xampp/htdocs/courier1/receptionist.php",
+		"/C/xampp/htdocs/labtask2/dashboard (1).php",
+		"/C/xampp/htdocs/final11/index.php",
+		"/C/Users/USER/Desktop/math2/WT Final ONLINE PRESENTATION/Final ONLINE PRESENTATION/v 13/final1/models/database.php",
+		"/C/xampp/htdocs/mvc/allcategories.php",
+		"/C/xampp/htdocs/labtask2/Dashboard.php",
+		"/C/xampp/htdocs/labtask2/editdepartments.php",
+		"/C/xampp/htdocs/labtask2/editstudent.php",
+		"/C/xampp/htdocs/labtask2/login.php",
+		"/C/xampp/htdocs/labtask2/main_footer.php",
+		"/C/xampp/htdocs/MVC-1/addStudent.php",
+		"/C/xampp/htdocs/MVC-1/models/db_connect.php",
+		"/C/xampp/htdocs/MVC-1/alldepartments.php",
+		"/C/xampp/htdocs/MVC-1/adddepartment.php",
+		"/C/xampp/htdocs/MVC-1/controllers/StudentsController.php",
+		"/C/xampp/htdocs/MVC-1/controllers/LoginController.php",
+		"/C/xampp/htdocs/MVC-1/controllers/DepartmentController.php",
+		"/C/xampp/htdocs/MVC-1/allstudents.php",
+		"/C/xampp/htdocs/MVC-1/addStudent(1).php",
+		"/C/xampp/htdocs/MVC-1/Dashboard.php",
+		"/C/xampp/htdocs/MVC-1/dashboard (1).php",
+		"/C/xampp/htdocs/final1/models/db_connect.php",
+		"/C/xampp/htdocs/MVC-1/login.php",
+		"/C/xampp/htdocs/MVC-1/editdepartments.php",
+		"/C/xampp/htdocs/mvc/allproducts.php",
+		"/C/xampp/htdocs/prac.1/db_connect.php",
+		"/C/xampp/htdocs/final1/controllers/productController.php",
+		"/E/semester summer (20)/webtech final/final1/MVC/addcategory.php",
+		"/C/xampp/htdocs/mvc/models/db_connect.php",
+		"/C/xampp/htdocs/Inventory/auth.php",
+		"/C/xampp/htdocs/Inventory/db.php",
+		"/C/xampp/htdocs/midwt/login.php",
+		"/C/xampp/htdocs/form2/login.php",
+		"/C/xampp/htdocs/java/index.php",
+		"/C/xampp/htdocs/form2/config.php",
+		"/C/xampp/htdocs/form 2/reg.php",
+		"/C/xampp/htdocs/form2/Dashboard (1).php",
+		"/C/xampp/htdocs/form2/loginauth.php",
+		"/C/Users/USER/Downloads/Naim1/Naim1/login.php",
+		"/D/downloads(chrome)/index.php",
+		"/C/xampp/htdocs/class/receptionist.php",
+		"/C/xampp/htdocs/class/login.php",
+		"/C/xampp/htdocs/Inventory/login.php",
+		"/C/Users/USER/Desktop/New folder (7)/Final ONLINE PRESENTATION/v 13/final1/controllers/LoginPanelController.php",
+		"/C/Users/USER/Desktop/New folder (7)/Final ONLINE PRESENTATION/v 13/final1/models/database.php",
+		"/C/xampp/htdocs/courier/index1.php",
+		"/C/xampp/htdocs/courier/manager.php",
+		"/C/xampp/htdocs/class/test1.php",
+		"/C/xampp/htdocs/class/test3.php",
+		"/C/xampp/htdocs/class/test2.php",
+		"/C/xampp/htdocs/midwt/room.php",
+		"/C/xampp/htdocs/courier/p.php",
+		"/C/xampp/htdocs/courier/same.php",
+		"/C/xampp/htdocs/midwt/RecieptionistPanel.php",
+		"/C/xampp/htdocs/courier1/recieptionist.php",
+		"/C/Users/USER/Desktop/New folder (7)/courier/login.php",
+		"/C/xampp/htdocs/midwt/manager_booking.php",
+		"/C/xampp/htdocs/midwt/CustomerInformation.php",
+		"/C/xampp/htdocs/midwt/CustomerUser.php",
+		"/C/xampp/htdocs/midwt/employee.php",
+		"/C/xampp/htdocs/class/process.php",
+		"/C/xampp/htdocs/class/ORDER-INFO.php",
+		"/C/xampp/htdocs/class/ORDER-INFORMATION.php",
+		"/C/xampp/htdocs/class/CustomerUser.php",
+		"/C/xampp/htdocs/class/user.php",
+		"/C/xampp/htdocs/class/index.php",
+		"/C/xampp/htdocs/class/RecieptionistPanel.php",
+		"/C/xampp/htdocs/courier/admin.php",
+		"/C/xampp/htdocs/courier/index.php",
+		"/C/xampp/htdocs/courier1/login.php",
+		"/C/xampp/htdocs/courier1/employee.php",
+		"/C/xampp/htdocs/courier/admin1.php",
+		"/C/Users/USER/Desktop/testphp.php",
+		"/C/xampp/htdocs/courier1/manager_booking.php",
+		"/C/xampp/htdocs/midwt/RoomInformation&Manage.php",
+		"/C/xampp/htdocs/midwt/ROOM-INFORMATION.php",
+		"/C/Users/USER/Desktop/web/10/style.css",
+		"/C/Users/USER/Desktop/code/pp.html",
+		"/D/qqqq/qqqq/qqqq/class 10/assignment/shila facebook 2/class7/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "admin_EditEmployee.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
